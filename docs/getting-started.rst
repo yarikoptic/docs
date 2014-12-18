@@ -80,7 +80,7 @@ Setting up Etherpad quickly
 
 * ``ansible/inventory/hosts``::
 
-    [deops_etherpad]
+    [debops_etherpad]
     server1
 
 * ``ansible/inventory/host_vars/server1.yml``::
@@ -99,8 +99,8 @@ More Examples
 ~~~~~~~~~~~~~~~~
 
 You can find more examples in the `DebOps examples repository
-<https://github.com/debops/examples>`_. If you have a an example you
-want to share, please submit a pull-request. I'd happily integrate it.
+<https://github.com/debops/examples>`_. If you have an example you
+want to share, please submit a pull-request. We'd happily integrate it.
 
 
 
